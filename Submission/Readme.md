@@ -283,11 +283,8 @@ Recognize when quantum ML can provide advantages over classical approaches.
 
 Understand the current limitations of quantum machine learning technology.
 
-19. License
 
-This project is released for educational purposes only as part of the IIIT Bangalore Quantum Machine Learning Curriculum.
-
-20. Support
+19. Support
 
 For help with:
 
@@ -297,7 +294,7 @@ Quantum modules: Visit PennyLane official documentation.
 
 Model architectures: Review code comments and markdown instructions.
 
-21. Highlights
+20. Highlights
 
 Best Performing Model: Classical CNN (99.12% Accuracy).
 
